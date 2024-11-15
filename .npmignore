@@ -1,0 +1,30 @@
+__tests__/
+.github/
+.gitignore
+.npmignore
+
+# Development files
+src/
+tests/
+test/
+coverage/
+.eslintrc.js
+.prettierrc
+.babelrc
+jest.config.js
+
+# Documentation
+docs/
+*.md
+
+# Build configs
+tsconfig.json
+webpack.config.js
+rollup.config.js
+
+# CI/CD
+.travis.yml
+.gitlab-ci.yml
+
+# Environment files
+.env*

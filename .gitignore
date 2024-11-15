@@ -1,0 +1,26 @@
+node_modules/
+.DS_Store
+*.log
+
+# Build outputs
+dist/
+build/
+lib/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-*
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.swp
+.tmp/
+temp/
